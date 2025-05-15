@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                br.edu.uepb.sistemarestaurante/br.edu.uepb.sistemarestaurante.HelloApplication
+                                br.edu.uepb.sistemarestaurante/br.edu.uepb.restaurante.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
