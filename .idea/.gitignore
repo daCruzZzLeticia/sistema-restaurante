@@ -1,0 +1,25 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# IntelliJ IDEA
+.idea/
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+mvnw.cmd
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Compilados
+target/
+out/
+
+# Outros arquivos desnecessários
+*.class
+*.jar
